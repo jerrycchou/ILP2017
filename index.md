@@ -51,8 +51,8 @@ Lecture9: [CUDA Optimization](https://github.com/jerrycchou/ILP2017/Chap9_CUDA_O
 Lecture10: [MapReduce](https://github.com/jerrycchou/ILP2017/Chap10_MapReduce.pdf)  
 
 ## 實驗課投影片
-Lab1: [Linux](https://{{site.baseurl}}/IPL2017-lab1-linux.pdf)  
-Lab2: [MPI](https://github.com/jerrycchou/ILP2017/IPL2017-lab2-MPI.pdf)  
+Lab1: [Linux](https://github.com/jerrycchou/blob/master/IPL2017-lab1-linux.pdf)  
+Lab2: [MPI](IPL2017-lab2-MPI.pdf)  
 Lab3: [Pthread](https://github.com/jerrycchou/ILP2017/IPL2017-lab3-Pthread.pdf)  
 Lab4: [OpenMP](https://github.com/jerrycchou/ILP2017/IPL2017-lab4-OpenMP.pdf)  
 Lab5: [CUDA Basic](https://github.com/jerrycchou/ILP2017/IPL2017-lab5-CUDA-Basic.pdf)  
