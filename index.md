@@ -38,28 +38,31 @@
 
 
 ## 上課投影片
-Lecture0: [Syllabus](syllabus.pdf)  
-Lecture1: [Introduction to Parallel Computing](Chap1_Intro.pdf)  
-Lecture2: [MPI](Chap2_MPI.pdf)  
-Lecture3: [Pthread](Chap3_Pthread.pdf)  
-Lecture4: [OpenMP](Chap4_OpenMP.pdf)  
-Lecture5: [Parallel Computing](Chap5_Parallel_Computing.pdf)  
-Lecture6: [Heter computing](Chap6_Heter_Computing.pdf)  
-Lecture7: [CUDA Introduction](Chap7_Intro.pdf)  
-Lecture8: [GPU Architecture](Chap8_GPU_Arch.pdf)  
-Lecture9: [CUDA Optimization](Chap9_CUDA_Optimization.pdf)  
-Lecture10: MapReduce
+- Lecture0: [Syllabus](syllabus.pdf)  
+- Lecture1: [Introduction to Parallel Computing](Chap1_Intro.pdf)  
+- Lecture2: [MPI](Chap2_MPI.pdf)  
+- Lecture3: [Pthread](Chap3_Pthread.pdf)  
+- Lecture4: [OpenMP](Chap4_OpenMP.pdf)  
+- Lecture5: [Parallel Computing](Chap5_Parallel_Computing.pdf)  
+- Lecture6: [Heter computing](Chap6_Heter_Computing.pdf)  
+- Lecture7: [CUDA Introduction](Chap7_Intro.pdf)  
+- Lecture8: [GPU Architecture](Chap8_GPU_Arch.pdf)  
+- Lecture9: [CUDA Optimization](Chap9_CUDA_Optimization.pdf)  
+- Lecture10: MapReduce
 
 ## 實驗課投影片
-Lab1: [Linux](IPL2017-lab1-linux.pdf)  
-Lab2: [MPI](IPL2017-lab2-MPI.pdf)  
-Lab3: [Pthread](IPL2017-lab3-Pthread.pdf)  
-Lab4: [OpenMP](IPL2017-lab4-Openmp.pdf)  
-Lab5: CUDA Basic  
-Lab6: CUDA Advanced
+- Lab1: [Linux](IPL2017-lab1-linux.pdf)  
+- Lab2: [MPI](IPL2017-lab2-MPI.pdf)  
+- Lab3: [Pthread](IPL2017-lab3-Pthread.pdf)  
+- Lab4: [OpenMP](IPL2017-lab4-Openmp.pdf)  
+- Lab5: CUDA Basic  
+- Lab6: CUDA Advanced
 
 ## 作業
-HW1: [Parallel Odd-Even Transposition Sort (MPI)](IPL_2017_HW1.pdf) (Due on 7/10)  
-HW2: [Mandelbrot Set (MPI + OpenMP)](IPL_2017_HW2.pdf) (Due on 7/18)   
-HW3: [Roller-coaster (Pthread)](IPL_2017_HW3.pdf) (Due on 7/24)    
-HW4: Blocked All-Pairs Shortest Path (CUDA)  (Due on 8/2)  
+- HW1: [Parallel Odd-Even Transposition Sort (MPI)](IPL_2017_HW1.pdf) (Due on 7/10)  
+- HW2: [Mandelbrot Set (MPI + OpenMP)](IPL_2017_HW2.pdf) (Due on 7/18)   
+- HW3: [Roller-coaster (Pthread)](IPL_2017_HW3.pdf) (Due on 7/24)    
+- HW4: Blocked All-Pairs Shortest Path (CUDA)  (Due on 8/2)  
+
+## 重要公告
+- 作業三的demo會在7/24(一)2:30pm開始, 地點和順序會在下周一2pm前公佈在這網頁
