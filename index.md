@@ -75,3 +75,4 @@ HW2: [Mandelbrot Set (MPI + OpenMP)](https://github.com/jerrycchou/ILP2017/IPL_2
 HW3: [Roller-coaster (Pthread)](https://github.com/jerrycchou/ILP2017/IPL_2017_HW3.pdf)
 HW4: [Blocked All-Pairs Shortest Path (CUDA)](https://github.com/jerrycchou/ILP2017/IPL_2017_HW4.pdf)
 ```
+HW4: [Blocked All-Pairs Shortest Path (CUDA)](https://github.com/jerrycchou/ILP2017/IPL_2017_HW4.pdf)
