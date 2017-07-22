@@ -20,7 +20,6 @@
   Labs: 15%
 ```
 ## 教學進度
-```markdown
 7/3  上午	Lecture1: Introduction to Parallel Computing
 7/3  下午	Lab1: Linux
 7/4  上午	Lecture2: MPI
@@ -41,7 +40,7 @@
 7/27 上午	Lecture10: MapReduce
 7/27 下午	CUDA Lab II
 8/2  上午	HW4 Demo
-```
+
 
 ## 上課投影片
 ```markdown
@@ -69,10 +68,7 @@ Lab6: [CUDA Advanced](https://github.com/jerrycchou/ILP2017/IPL2017-lab6-CUDA-Ad
 ```
 
 ## 作業
-```markdown
 HW1: [Parallel Odd-Even Transposition Sort (MPI)](https://github.com/jerrycchou/ILP2017/IPL_2017_HW1.pdf)
 HW2: [Mandelbrot Set (MPI + OpenMP)](https://github.com/jerrycchou/ILP2017/IPL_2017_HW2.pdf)
 HW3: [Roller-coaster (Pthread)](https://github.com/jerrycchou/ILP2017/IPL_2017_HW3.pdf)
-HW4: [Blocked All-Pairs Shortest Path (CUDA)](https://github.com/jerrycchou/ILP2017/IPL_2017_HW4.pdf)
-```
 HW4: [Blocked All-Pairs Shortest Path (CUDA)](https://github.com/jerrycchou/ILP2017/IPL_2017_HW4.pdf)
