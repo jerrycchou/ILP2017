@@ -1,26 +1,23 @@
 # 兩岸清華 計算機程式設計實作課程  (Introduction to Programming Laboratory) 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## 課程資訊
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- 授課教師: 周志遠
+- 助教: 郭柏妤(台灣)、鄭禎(北京)
+- 學分數: 2
+- 上課地點:
+    台灣: 台達館108(實驗課:資電館323)
+    北京: 四教4305(實驗課:东主楼9区223)
+- 成績計算: 
+  Programming Assignment: 85%
+    1. Parallel Odd-Even Transposition Sort (MPI): 25%
+    2. Mandelbrot Set (MPI + OpenMP): 25%
+    3. Roller-coaster (Pthread): 10%
+    4. Blocked All-Pairs Shortest Path (CUDA): 25%
+  Labs: 15%
 ```
+## 教學進度
+## 成績計算
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
