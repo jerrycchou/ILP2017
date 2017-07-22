@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ILP 2017 Course Pages
 
 You can use the [editor on GitHub](https://github.com/jerrycchou/ILP2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
