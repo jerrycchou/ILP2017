@@ -59,7 +59,7 @@ Lab5: CUDA Basic
 Lab6: CUDA Advanced
 
 ## 作業
-HW1: [Parallel Odd-Even Transposition Sort (MPI)](IPL_2017_HW1.pdf)  
-HW2: [Mandelbrot Set (MPI + OpenMP)](IPL_2017_HW2.pdf)  
-HW3: [Roller-coaster (Pthread)](IPL_2017_HW3.pdf)  
-HW4: Blocked All-Pairs Shortest Path (CUDA)
+HW1: [Parallel Odd-Even Transposition Sort (MPI)](IPL_2017_HW1.pdf) (Due on 7/10)  
+HW2: [Mandelbrot Set (MPI + OpenMP)](IPL_2017_HW2.pdf) (Due on 7/18)   
+HW3: [Roller-coaster (Pthread)](IPL_2017_HW3.pdf) (Due on 7/24)    
+HW4: Blocked All-Pairs Shortest Path (CUDA)  (Due on 8/2)  
