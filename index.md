@@ -48,18 +48,18 @@ Lecture6: [Heter computing](Chap6_Heter_Computing.pdf)
 Lecture7: [CUDA Introduction](Chap7_Intro.pdf)  
 Lecture8: [GPU Architecture](Chap8_GPU_Arch.pdf)  
 Lecture9: [CUDA Optimization](Chap9_CUDA_Optimization.pdf)  
-Lecture10: [MapReduce](Chap10_MapReduce.pdf)  
+Lecture10: MapReduce
 
 ## 實驗課投影片
 Lab1: [Linux](IPL2017-lab1-linux.pdf)  
 Lab2: [MPI](IPL2017-lab2-MPI.pdf)  
 Lab3: [Pthread](IPL2017-lab3-Pthread.pdf)  
 Lab4: [OpenMP](IPL2017-lab4-OpenMP.pdf)  
-Lab5: [CUDA Basic](IPL2017-lab5-CUDA-Basic.pdf)  
-Lab6: [CUDA Advanced](IPL2017-lab6-CUDA-Advanced.pdf)  
+Lab5: CUDA Basic
+Lab6: CUDA Advanced
 
 ## 作業
 HW1: [Parallel Odd-Even Transposition Sort (MPI)](IPL_2017_HW1.pdf)  
 HW2: [Mandelbrot Set (MPI + OpenMP)](IPL_2017_HW2.pdf)  
 HW3: [Roller-coaster (Pthread)](IPL_2017_HW3.pdf)  
-HW4: [Blocked All-Pairs Shortest Path (CUDA)](IPL_2017_HW4.pdf)  
+HW4: Blocked All-Pairs Shortest Path (CUDA)
