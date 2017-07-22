@@ -12,12 +12,7 @@
     下午: 1:30pm-4:00pm  
 - 成績計算:   
   Programming Assignment: 85%  
-    1. Parallel Odd-Even Transposition Sort (MPI): 25%  
-    2. Mandelbrot Set (MPI + OpenMP): 25%  
-    3. Roller-coaster (Pthread): 10%  
-    4. Blocked All-Pairs Shortest Path (CUDA): 25%  
   Labs: 15%  
-
 
 ## 教學進度
 7/3  上午	Lecture1: Introduction to Parallel Computing  
