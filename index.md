@@ -1,9 +1,4 @@
-## 兩岸清華 計算機程式設計實作課程 
-## Introduction to Programming Laboratory 
-
-You can use the [editor on GitHub](https://github.com/jerrycchou/ILP2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 兩岸清華 計算機程式設計實作課程  (Introduction to Programming Laboratory) 
 
 ### Markdown
 
