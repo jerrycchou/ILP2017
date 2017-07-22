@@ -1,4 +1,5 @@
-## Welcome to ILP 2017 Course Pages
+## 兩岸清華 計算機程式設計實作課程 
+## Introduction to Programming Laboratory 
 
 You can use the [editor on GitHub](https://github.com/jerrycchou/ILP2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
