@@ -54,8 +54,8 @@ Lecture10: MapReduce
 Lab1: [Linux](IPL2017-lab1-linux.pdf)  
 Lab2: [MPI](IPL2017-lab2-MPI.pdf)  
 Lab3: [Pthread](IPL2017-lab3-Pthread.pdf)  
-Lab4: [OpenMP](IPL2017-lab4-OpenMP.pdf)  
-Lab5: CUDA Basic
+Lab4: [OpenMP](IPL2017-lab4-Openmp.pdf)  
+Lab5: CUDA Basic  
 Lab6: CUDA Advanced
 
 ## 作業
