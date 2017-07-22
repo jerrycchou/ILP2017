@@ -45,6 +45,7 @@
 
 ## 上課投影片
 ```markdown
+Lecture0: [Syllabus](https://github.com/jerrycchou/ILP2017/syllabus.pdf)
 Lecture1: [Introduction to Parallel Computing](https://github.com/jerrycchou/ILP2017/Chap1_Intro.pdf)
 Lecture2: [MPI](https://github.com/jerrycchou/ILP2017/Chap2_MPI.pdf)
 Lecture3: [Pthread](https://github.com/jerrycchou/ILP2017/Chap3_Pthread.pdf)
@@ -55,7 +56,10 @@ Lecture7: [CUDA Introduction](https://github.com/jerrycchou/ILP2017/Chap7_Intro.
 Lecture8: [GPU Architecture](https://github.com/jerrycchou/ILP2017/Chap8_GPU_Arch.pdf)
 Lecture9: [CUDA Optimization](https://github.com/jerrycchou/ILP2017/Chap9_CUDA_Optimization.pdf)
 Lecture10: [MapReduce](https://github.com/jerrycchou/ILP2017/Chap10_MapReduce.pdf)
+```
 
+## 實驗課投影片
+```markdown
 Lab1: [Linux](https://github.com/jerrycchou/ILP2017/IPL2017-lab1-linux.pdf)
 Lab2: [MPI](https://github.com/jerrycchou/ILP2017/IPL2017-lab2-MPI.pdf)
 Lab3: [Pthread](https://github.com/jerrycchou/ILP2017/IPL2017-lab3-Pthread.pdf)
