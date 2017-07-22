@@ -45,23 +45,23 @@
 
 ## 上課投影片
 ```markdown
-Lecture1: Introduction to Parallel Computing(https://github.com/jerrycchou/ILP2017/chap1.pdf)
-Lecture2: MPI(https://github.com/jerrycchou/ILP2017/chap2.pdf)
-Lecture3: Pthread(https://github.com/jerrycchou/ILP2017/chap3.pdf)
-Lecture4: OpenMP(https://github.com/jerrycchou/ILP2017/chap4.pdf)
-Lecture5: Parallel Computing(https://github.com/jerrycchou/ILP2017/chap5.pdf)
-Lecture6: Heter computing(https://github.com/jerrycchou/ILP2017/chap6.pdf)
-Lecture7: CUDA(https://github.com/jerrycchou/ILP2017/chap7.pdf)
-Lecture8: GPU Architecture(https://github.com/jerrycchou/ILP2017/chap8.pdf)
-Lecture9: CUDA Optimization(https://github.com/jerrycchou/ILP2017/chap9.pdf)
-Lecture10: MapReduce(https://github.com/jerrycchou/ILP2017/chap10.pdf)
+Lecture1: Introduction to Parallel Computing(https://github.com/jerrycchou/ILP2017/Chap1_Intro.pdf)
+Lecture2: MPI(https://github.com/jerrycchou/ILP2017/Chap2_MPI.pdf)
+Lecture3: Pthread(https://github.com/jerrycchou/ILP2017/Chap3_Pthread.pdf)
+Lecture4: OpenMP(https://github.com/jerrycchou/ILP2017/Chap4_OpenMP.pdf)
+Lecture5: Parallel Computing(https://github.com/jerrycchou/ILP2017/Chap5_Parallel_Computing.pdf)
+Lecture6: Heter computing(https://github.com/jerrycchou/ILP2017/Chap6_Heter_Computing.pdf)
+Lecture7: CUDA(https://github.com/jerrycchou/ILP2017/Chap7_Intro.pdf)
+Lecture8: GPU Architecture(https://github.com/jerrycchou/ILP2017/Chap8_GPU_Arch.pdf)
+Lecture9: CUDA Optimization(https://github.com/jerrycchou/ILP2017/Chap9_CUDA_Optimization.pdf)
+Lecture10: MapReduce(https://github.com/jerrycchou/ILP2017/Chap10_MapReduce.pdf)
 
-Lab1: Linux(https://github.com/jerrycchou/ILP2017/lab1.pdf)
-Lab2: MPI(https://github.com/jerrycchou/ILP2017/lab2.pdf)
-Lab3: Pthread(https://github.com/jerrycchou/ILP2017/lab3.pdf)
-Lab4: OpenMP(https://github.com/jerrycchou/ILP2017/lab4.pdf)
-Lab5: CUDA Basic(https://github.com/jerrycchou/ILP2017/lab5.pdf)
-Lab6: CUDA Advanced(https://github.com/jerrycchou/ILP2017/lab6.pdf)
+Lab1: Linux(https://github.com/jerrycchou/ILP2017/IPL2017-lab1-linux.pdf)
+Lab2: MPI(https://github.com/jerrycchou/ILP2017/IPL2017-lab2-MPI.pdf)
+Lab3: Pthread(https://github.com/jerrycchou/ILP2017/IPL2017-lab3-Pthread.pdf)
+Lab4: OpenMP(https://github.com/jerrycchou/ILP2017/IPL2017-lab4-OpenMP.pdf)
+Lab5: CUDA Basic(https://github.com/jerrycchou/ILP2017/IPL2017-lab5-CUDA-Basic.pdf)
+Lab6: CUDA Advanced(https://github.com/jerrycchou/ILP2017/IPL2017-lab6-CUDA-Advanced.pdf)
 ```
 
 ## 作業
