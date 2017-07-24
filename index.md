@@ -46,7 +46,7 @@
 - Lecture4: [OpenMP](Chap4_OpenMP.pdf)  
 - Lecture5: [Parallel Computing](Chap5_Parallel_Computing.pdf)  
 - Lecture6: [Heter computing](Chap6_Heter_Computing.pdf)  
-- Lecture7: [CUDA Introduction](Chap7_Intro.pdf)  
+- Lecture7: [CUDA Introduction](Chap7_CUDA_Intro.pdf)  
 - Lecture8: [GPU Architecture](Chap8_GPU_Arch.pdf)  
 - Lecture9: [CUDA Optimization](Chap9_CUDA_Optimization.pdf)  
 - Lecture10: MapReduce
