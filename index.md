@@ -35,7 +35,7 @@
 7/27 上午	Lecture10: MapReduce  
 7/27 下午	CUDA Lab II        
 8/1  上午 作業討論    
-8/2  下午	HW4 Demo  
+8/3  下午	HW4 Demo  
 
 
 ## 上課投影片
@@ -63,7 +63,7 @@
 - HW1: [Parallel Odd-Even Transposition Sort (MPI)](IPL_2017_HW1.pdf) (Due on 7/10)  
 - HW2: [Mandelbrot Set (MPI + OpenMP)](IPL_2017_HW2.pdf) (Due on 7/18)   
 - HW3: [Roller-coaster (Pthread)](IPL_2017_HW3.pdf) (Due on 7/24)    
-- HW4: Blocked All-Pairs Shortest Path (CUDA)  (Due on 8/2)  
+- HW4: Blocked All-Pairs Shortest Path (CUDA)  (Due on 8/3)  
 
 ## 重要公告
 - 7/24 11:30am: 作業三的demo地點改到 东主楼9区320會議室
