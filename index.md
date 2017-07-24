@@ -63,7 +63,7 @@
 - HW1: [Parallel Odd-Even Transposition Sort (MPI)](IPL_2017_HW1.pdf) (Due on 7/10)  
 - HW2: [Mandelbrot Set (MPI + OpenMP)](IPL_2017_HW2.pdf) (Due on 7/18)   
 - HW3: [Roller-coaster (Pthread)](IPL_2017_HW3.pdf) (Due on 7/24)    
-- HW4: [Blocked All-Pairs Shortest Path (CUDA)](ILP_2017_HW4.pdf)  (Due on 8/3)  
+- HW4: [Blocked All-Pairs Shortest Path (CUDA)](IPL_2017_HW4.pdf)  (Due on 8/3)  
 
 ## 重要公告
 - 7/24 11:30am: 作業三的demo地點改到 东主楼9区320會議室
