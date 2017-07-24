@@ -34,7 +34,7 @@
 7/25 下午	CUDA Lab I  
 7/27 上午	Lecture10: MapReduce  
 7/27 下午	CUDA Lab II        
-8/2  上午 作業討論    
+8/1  上午 作業討論    
 8/2  下午	HW4 Demo  
 
 
