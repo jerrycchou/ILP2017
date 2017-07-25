@@ -56,7 +56,7 @@
 - Lab2: [MPI](IPL2017-lab2-MPI.pdf)  
 - Lab3: [Pthread](IPL2017-lab3-Pthread.pdf)  
 - Lab4: [OpenMP](IPL2017-lab4-Openmp.pdf)  
-- Lab5: CUDA Basic  
+- Lab5: [CUDA Basic](IPL2017-lab5-CUDA.pdf)    
 - Lab6: CUDA Advanced
 
 ## 作業
